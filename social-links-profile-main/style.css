@@ -124,7 +124,13 @@ a{
     background-color: var(--clr-green);
     color:var(--clr-off-black);
 }
-
+.attribution{
+    font-size: 14px;
+    color:white;
+    width: 300px;
+    display: -webkit-box;
+    
+}
 
 @media(min-width:1200px)
 {
